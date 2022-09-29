@@ -1,0 +1,31 @@
+.Cart {
+    position: sticky;
+    top: 0%;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.Break-Btn {
+    display: flex;
+    gap: 10px;
+}
+
+.Break-Btn button {
+    background-color: crimson;
+    border-radius: 80px;
+    border: none;
+    color: white;
+    width: 45px;
+    height: 45px;
+}
+
+.Break-Btn button:hover {
+    background-color: darkcyan;
+}
+
+.break {
+    background-color: cadetblue;
+    border-radius: 5px;
+
+    padding: 20px;
+}

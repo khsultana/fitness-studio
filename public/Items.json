@@ -1,0 +1,50 @@
+[
+    {
+        "_id": "6334a8e0086b8b3fe39498ff",
+        "picture": "https://images.unsplash.com/photo-1594737625785-a6cbdabd333c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "age": "20-30",
+        "time": 60,
+        "name": "Push-up",
+        "about": "The push-up helps to build muscle and improve strength throughout the upper body. targets the muscles in your chest, arms  and the shoulders."
+    },
+    {
+        "_id": "6334a8e0aa27d59728355302",
+        "picture": "https://images.unsplash.com/photo-1507398941214-572c25f4b1dc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=773&q=80",
+        "age": "20-30",
+        "time": 60,
+        "name": "Push-down",
+        "about": "A push-down is a strength training exercise used for strengthening the triceps muscles in the back of the arm. "
+    },
+    {
+        "_id": "6334a8e0fd9fa0b80bc3a949",
+        "picture": "https://www.mensjournal.com/wp-content/uploads/2018/02/landminelunge.jpg?w=900&quality=82&strip=all",
+        "age": "20-30",
+        "time": 30,
+        "name": "Lunges",
+        "about": "Lunges do just that, promoting functional movement while also increasing strength in your legs and glutes."
+    },
+    {
+        "_id": "6334a8e03b762700dce2aea4",
+        "picture": "https://images.unsplash.com/photo-1639496908153-e89e77ea95f2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjN8fGRlYWRsaWZ0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "age": "20-30",
+        "time": 30,
+        "name": "Single-leg deadlifts",
+        "about": "  This variation of a traditional deadlifts involves one leg lifting off the ground and extending out behind you.  "
+    },
+    {
+        "_id": "6334a8e06f87dc7a8018ce1e",
+        "picture": "https://fitnessvolt.com/wp-content/uploads/2022/09/Alternative-to-Burpees.jpg",
+        "age": "20-30",
+        "time": 30,
+        "name": "Burpees",
+        "about": "The burpee, a squat thrust with an additional stand between repetitions, is a full body exercise used in strength training.  "
+    },
+    {
+        "_id": "6334a8e06f87dc7a8018ce1e",
+        "picture": "https://media.istockphoto.com/photos/beautiful-yoga-woman-doing-dvi-pada-viparita-dandasana-pose-picture-id534409824?k=20&m=534409824&s=612x612&w=0&h=-8GBgBJAaYOp7gnab2S-6ZlY_v7wdCq6dlEn73EYHe4=",
+        "age": "20-30",
+        "time": 30,
+        "name": "Glute bridge",
+        "about": "It warms up your glute muscles for other exercises. It tones your gluteal muscles. It adds tension to the entire glute bridge motion, increasing the effectiveness of your workout. "
+    }
+]

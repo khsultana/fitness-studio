@@ -1,0 +1,33 @@
+.Show-Container img {
+    height: 200px;
+    width: 300px;
+
+}
+
+.Show-Container {
+    border: 1px solid sandybrown;
+    position: relative;
+    width: 300px;
+    height: 540px;
+
+
+
+}
+
+.btn {
+    border: none;
+    background-color: chocolate;
+    width: 100%;
+    position: absolute;
+    bottom: 0%;
+    color: white;
+}
+
+.btn p {
+    font-size: 16px;
+}
+
+.Inner-Card {
+    padding: 10px;
+    margin: 10px;
+}
